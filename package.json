@@ -27,7 +27,7 @@
         "babel-loader": "^8.1.0",
         "babel-preset-es2015": "^6.24.1",
         "babel-preset-react": "^6.24.1",
-        "node-fetch": "^2.6.0",
+        "node-fetch": "^2.6.1",
         "object-assign": "^4.1.1",
         "react": "^16.13.1",
         "react-dom": "^16.13.1"
